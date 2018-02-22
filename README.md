@@ -10,11 +10,11 @@ Come and enjoy your time!
 - Get more proficient with GitHub version control system
 - Prize
 - Networking with like-minded people
-# How to submit problem? 
-- Read carefully through the resourses that are available
+# How to submit solution? 
+- Read carefully through the resources that are available
 - Create GitHub account if you haven't got one yet
-- Create a repository with "NU-ACM-W-Coding-[YOURNAME]" title
+- Fork this repository, or create your own with [ACM-M-Coding-[YOURNAME]] name.
 - Upload your solution along with README.md that shows the way the program needs to be run and with the photo showing example of output
-- That is!
+- That is it!
 
 ![alt text](https://pp.userapi.com/c824410/v824410951/c7402/kOsoDXS2KJY.jpg)
