@@ -1,5 +1,5 @@
 # How to use GitHub
-- (https://guides.github.com/activities/hello-world/)[Tutorial for beginners from GitHub]
+- [Tutorial for beginners from GitHub](https://guides.github.com/activities/hello-world/)
 - (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)[Markdown Cheatsheet]
 - (https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github)[Add images to README.md]
 - (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)[Template for README.md]
