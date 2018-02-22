@@ -16,3 +16,5 @@ Come and enjoy your time!
 - Create a repository with "NU-ACM-W-Coding-[YOURNAME]" title
 - Upload your solution along with README.md that shows the way the program needs to be run and with the photo showing example of output
 - That is!
+
+[Practice makes perfect](https://pp.userapi.com/c824410/v824410951/c7402/kOsoDXS2KJY.jpg)
