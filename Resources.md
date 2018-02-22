@@ -18,5 +18,9 @@
 
 # How to check if I am right? 
 - (https://www.quora.com/What-is-an-edge-case-when-programming)[Check all edge cases]
-- (https://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html)[If some of inputs are not producing the expected output, debug your code]. Either with a special tool in IDE or with simple I/O tools (pritf, etc)
-- If you have already done previous steps, come to us.
+- (https://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html)[If some of inputs are not producing the expected output, debug your code]. Either with a special tool in IDE or with simple I/O tools (`pritf()`, `System.out.println()`, etc)
+- If you have already done previous steps, come to us to aknowledge us about your submission
+
+# What if I don't know how to start? 
+- Be sure you have read resources and have tried to imagine a program using a sheet of paper. If yes, ask our guidance. :)
+
